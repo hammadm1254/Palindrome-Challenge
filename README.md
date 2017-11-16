@@ -63,8 +63,8 @@ thinking of chopping the list in half and folding it over itself then comparing 
 
 For Example:
     |------------|
-   [1,  0,  0,  1]
-        |___|
+    [1,  0,  0,  1]
+         ^---^
 
 
 The minimum_Base function takes a given integer and checks if the given number is a palindrome in
